@@ -16,3 +16,4 @@ e.g. 在~/.bashrc添加下面几行
 
 test
 ddd
+sfsdfsdf
